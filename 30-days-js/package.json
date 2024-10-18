@@ -1,0 +1,35 @@
+{
+  "name": "30-days",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "hello": "node ./script",
+    "counter": "node ./counter",
+    "filter": "node ./filter",
+    "memorize": "node ./memorize",
+    "promise": "node ./promise",
+    "object": "node ./object",
+    "speed": "node ./gamespeed",
+    "megastore": "node ./megastore",
+    "reorder": "node ./reorder",
+    "remove": "node ./remove-property",
+    "check-digit": "node ./check-digit",
+    "endagered": "node ./endagered",
+    "pipeline": "node ./pipeline",
+    "malware": "node ./malware-analysis",
+    "convert-date": "node ./convert-date",
+    "two-sum": "node ./two-sum",
+    "song": "node ./song",
+    "remove-btn": "node ./remove-btn",
+    "testing": "node ./test",
+    "chunk-array": "node ./chunk-array",
+    "array-proto-last": "node ./array-proto-last",
+    "array-group-by": "node ./array-group-by",
+    "array-sort-by": "node ./array-sort-by",
+    "test": "node ../test/test"
+
+  },
+  "author": "Alonso Castellon",
+  "license": "ISC",
+  "description": ""
+}
